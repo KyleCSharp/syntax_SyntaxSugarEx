@@ -11,7 +11,7 @@ namespace Syntax_SyntaxSugarEx
             Console.WriteLine(response);
 
             //or for interaction
-
+            Console.WriteLine("give me a number greater then or less the nine");
             var typeMe = int.Parse(Console.ReadLine());
             var responcex = (typeMe < 9) ? $"{typeMe} is less then nine" : $"{typeMe} is greater then nine";
             Console.WriteLine(responcex);
