@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Syntax_SyntaxSugarEx/1.0.0": {
+        "runtime": {
+          "Syntax_SyntaxSugarEx.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Syntax_SyntaxSugarEx/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

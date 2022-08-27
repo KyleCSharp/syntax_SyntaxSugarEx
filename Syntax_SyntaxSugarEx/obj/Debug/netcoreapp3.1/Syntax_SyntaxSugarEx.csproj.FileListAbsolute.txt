@@ -1,0 +1,14 @@
+C:\Users\kylel\repos\Syntax_SyntaxSugarEx\Syntax_SyntaxSugarEx\bin\Debug\netcoreapp3.1\Syntax_SyntaxSugarEx.exe
+C:\Users\kylel\repos\Syntax_SyntaxSugarEx\Syntax_SyntaxSugarEx\bin\Debug\netcoreapp3.1\Syntax_SyntaxSugarEx.deps.json
+C:\Users\kylel\repos\Syntax_SyntaxSugarEx\Syntax_SyntaxSugarEx\bin\Debug\netcoreapp3.1\Syntax_SyntaxSugarEx.runtimeconfig.json
+C:\Users\kylel\repos\Syntax_SyntaxSugarEx\Syntax_SyntaxSugarEx\bin\Debug\netcoreapp3.1\Syntax_SyntaxSugarEx.runtimeconfig.dev.json
+C:\Users\kylel\repos\Syntax_SyntaxSugarEx\Syntax_SyntaxSugarEx\bin\Debug\netcoreapp3.1\Syntax_SyntaxSugarEx.dll
+C:\Users\kylel\repos\Syntax_SyntaxSugarEx\Syntax_SyntaxSugarEx\bin\Debug\netcoreapp3.1\Syntax_SyntaxSugarEx.pdb
+C:\Users\kylel\repos\Syntax_SyntaxSugarEx\Syntax_SyntaxSugarEx\obj\Debug\netcoreapp3.1\Syntax_SyntaxSugarEx.csproj.AssemblyReference.cache
+C:\Users\kylel\repos\Syntax_SyntaxSugarEx\Syntax_SyntaxSugarEx\obj\Debug\netcoreapp3.1\Syntax_SyntaxSugarEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kylel\repos\Syntax_SyntaxSugarEx\Syntax_SyntaxSugarEx\obj\Debug\netcoreapp3.1\Syntax_SyntaxSugarEx.AssemblyInfoInputs.cache
+C:\Users\kylel\repos\Syntax_SyntaxSugarEx\Syntax_SyntaxSugarEx\obj\Debug\netcoreapp3.1\Syntax_SyntaxSugarEx.AssemblyInfo.cs
+C:\Users\kylel\repos\Syntax_SyntaxSugarEx\Syntax_SyntaxSugarEx\obj\Debug\netcoreapp3.1\Syntax_SyntaxSugarEx.csproj.CoreCompileInputs.cache
+C:\Users\kylel\repos\Syntax_SyntaxSugarEx\Syntax_SyntaxSugarEx\obj\Debug\netcoreapp3.1\Syntax_SyntaxSugarEx.dll
+C:\Users\kylel\repos\Syntax_SyntaxSugarEx\Syntax_SyntaxSugarEx\obj\Debug\netcoreapp3.1\Syntax_SyntaxSugarEx.pdb
+C:\Users\kylel\repos\Syntax_SyntaxSugarEx\Syntax_SyntaxSugarEx\obj\Debug\netcoreapp3.1\Syntax_SyntaxSugarEx.genruntimeconfig.cache
